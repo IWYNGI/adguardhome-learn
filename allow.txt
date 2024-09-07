@@ -86,3 +86,6 @@
 @@||stat.y.qq.com^$important
 @@||tpstelemetry.tencent.com^$important
 
+livew.l.qq.com
+t7z.cupid.iqiyi.com
+wxsnsdy.wxs.qq.com
