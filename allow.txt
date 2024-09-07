@@ -89,3 +89,7 @@
 livew.l.qq.com
 t7z.cupid.iqiyi.com
 wxsnsdy.wxs.qq.com
+
+@@||data.bilibili.com^$important
+@@||tianshu.gtimg.cn^$important
+
