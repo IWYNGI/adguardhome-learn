@@ -56,6 +56,10 @@ mmpaypublicbucketpackage-40035.sh.gfp.tencent-cloud.com
 gtimg.wechatpay.cn
 
 #
+jiguang.cn
+jpush.cn
+
+#
 @@||tianshu.gtimg.cn^$important
 @@||vip.iqiyi.com^$important
 @@||lol.qq.com^$important
@@ -71,5 +75,10 @@ gtimg.wechatpay.cn
 @@||ynuf.aliapp.org^$important
 @@||lequ-qfe.iqiyi.com^$important
 @@||logs.game.qq.com^$important
+@@||istrategy.beacon.qq.com^$important
+@@||down.360safe.com^$important
+@@||short-video.kakamobi.cn^$important
+@@||c.isdspeed.qq.com^$important
+@@||s.youtube.com^$important
 
 
