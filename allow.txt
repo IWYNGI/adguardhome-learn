@@ -58,6 +58,7 @@ gtimg.wechatpay.cn
 #
 jiguang.cn
 jpush.cn
+umeng.com
 
 #
 @@||tianshu.gtimg.cn^$important
