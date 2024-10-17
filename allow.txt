@@ -66,5 +66,10 @@ gtimg.wechatpay.cn
 @@||xp.apple.com^$important
 @@||rumt-zh.com^$important
 @@||wan.$~image
+@@||onethingpcs.com^$important
+@@||cdn.ynuf.aliapp.org^$important
+@@||ynuf.aliapp.org^$important
+@@||lequ-qfe.iqiyi.com^$important
+@@||logs.game.qq.com^$important
 
 
