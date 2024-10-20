@@ -81,5 +81,9 @@ umeng.com
 @@||short-video.kakamobi.cn^$important
 @@||c.isdspeed.qq.com^$important
 @@||s.youtube.com^$important
+@@||wup.imtt.qq.com^$important
+@@||xmaterial.tu.qq.com^$important
+@@||staticsns.cdn.bcebos.com^$important
+@@||mcdn.bilivideo.cn^$important
 
 
