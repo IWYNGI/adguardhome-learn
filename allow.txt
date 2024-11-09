@@ -86,4 +86,13 @@ umeng.com
 @@||staticsns.cdn.bcebos.com^$important
 @@||mcdn.bilivideo.cn^$important
 
+@@||ylog.huya.com^$important
+@@||api.sprig.com^$important
+@@||nstool.netease.com^$important
+@@||inews.gtimg.com^$important
+@@||event.toggle.qq.com^$important
+@@||honeycomb.wps.cn^$important
+@@||honeycomb.wpscdn.cn^$important
+@@||metrics.icloud.com^$important
+
 
