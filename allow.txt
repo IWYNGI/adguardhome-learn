@@ -185,6 +185,12 @@ log.aliyuncs.com
 @@||skydrive.wns.windows.com^$important
 @@||cdn.odc.officeapps.live.com^$important
 
+@@||policy.jd.com^$important
+@@||cu-cn-north00002.gala.convection.cn^$important
+@@||cgi.connect.qq.com^$important
+@@||report.tencentmusic.com^$important
+
+
 
 
 
