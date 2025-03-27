@@ -80,6 +80,9 @@ gtimg.wechatpay.cn
 ||pcdn.yximgs.com
 ||d.meituan.net^$dnsrewrite=dreport.meituan.net
 
+||*.mcdn.bilivideo.cn^$important 
+||*.szbdyd.com^$important
+
 #
 jiguang.cn
 jpush.cn
@@ -190,6 +193,16 @@ log.aliyuncs.com
 @@||cgi.connect.qq.com^$important
 @@||report.tencentmusic.com^$important
 
+@@||weather-analytics-events.apple.com^$importan
+@@||trustpub.bj.bcebos.com^$important
+@@||sdk.beizi.biz^$important
+@@||weather-analytics-events.apple.com^$important
+@@||ipv4dns.com^$important
+@@||mmarket.com^$important
+@@||cmpassport.com^$important
+@@||dutils.com^$important
+@@||boxer.baidu.com^$important
+@@||client.app.coc.10086.cn^$important
 
 
 
