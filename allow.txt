@@ -89,9 +89,9 @@
 @@www.umeng.com
 @@log.aliyuncs.com
 @@tianshu.gtimg.cn
-@@alsc-session.ele.me
-@@alsc-fingerprint.ele.me
-@@shopping.ele.me
+
+#
+@@||ele.me^$important
 
 
 
