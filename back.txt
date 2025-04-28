@@ -1,3 +1,14 @@
+
+@@||pic.imgdb.cn
+@@||payapp.weixin.qq.com^$important
+@@||pan.quark.cn^$important
+@@||drive.quark.cn^$important
+@@||myquark.cn^$important
+@@||api.sec.miui.com^$important
+@@||cn.app.chat.xiaomi.net^$important
+@@||sdk.open.talk.gepush.com^$important
+@@||bootcdn.net^$important
+
 #
 /^https:\/\/.*/
 /.*pcdn.*biliapi\.net/
