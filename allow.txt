@@ -204,6 +204,10 @@ log.aliyuncs.com
 @@||boxer.baidu.com^$important
 @@||client.app.coc.10086.cn^$important
 
+@@||fc.3dmgame.com^$important
+@@||datareport.fkw.com^$important
+@@||d1.music.126.net^$important
+@@||dns.icoa.cn^$important
 
 
 
