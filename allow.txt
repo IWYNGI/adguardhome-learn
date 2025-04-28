@@ -82,6 +82,46 @@
 @@t.captcha.qq.com
 @@ptlogin2.docs.qq.com
 
+#QQ
+@@btrace.video.qq.com
+@@dldir1.qq.com
+@@lcsdk.3g.qq.com
+@@mazu.3g.qq.com
+@@sasdk.3g.qq.com
+@@sync.3g.qq.com
+@@tgw-masdk.3g.qq.com
+@@tgw-sasdk.3g.qq.com
+@@tools.3g.qq.com
+@@beacon.qq.com
+@@bugly.qq.com
+@@httpring.qq.com
+@@c.isdspeed.qq.com
+@@logsdk.qq.com
+@@analytics.map.qq.com
+@@vectorsdk.map.qq.com
+@@msdk.qq.com
+@@ssl.msdk.qq.com
+@@pingjs.qq.com
+@@pingtcss.qq.com
+@@pingma.qq.com
+@@qqlogo.qq.com
+@@qring-tms.qq.com
+@@qss-client.qq.com
+@@report.qq.com
+@@rh.qq.com
+@@rs1.qq.com
+@@rs2.qq.com
+@@misc.wcd.qq.com
+@@wspeed.qq.com
+@@log.wtlogin.qq.com
+@@ysdk.qq.com
+@@www.googleadservices.com
+@@input.shouji.sogo.com
+@@get.sogou.com
+@@v2.get.sogou.com
+@@*.snssdk.com
+@@*.ksapisrv.com
+
 #
 @@jiguang.cn
 @@jpush.cn
@@ -92,7 +132,10 @@
 
 #
 @@||ele.me^$important
-
+@@||api.sec.miui.com^$important
+@@||cn.app.chat.xiaomi.net^$important
+@@||sdk.open.talk.gepush.com^$important
+@@||bootcdn.net^$important
 
 
 
