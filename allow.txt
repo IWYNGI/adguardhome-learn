@@ -137,6 +137,26 @@
 @@||sdk.open.talk.gepush.com^$important
 @@||bootcdn.net^$important
 
-
+#
+@@clientlogdep.music.163.com
+@@clientlogsf.music.163.com
+@@vibeacon.onezapp.com
+@@lf6-cdn-tos.bytecdntp.com
+@@juejin.cn
+@@cmpassport.com
+@@guid.tpns.tencent.com
+@@access1.tpns.tencent.com
+@@clientlog.music.163.com
+@@mars.jd.com
+@@policy.jd.com
+@@appgoad.189.cn
+@@inews.gtimg.com
+@@s.click.taobao.com
+@@s.click.tmall.com
+@@loggw-ex.alipay.com
+@@amdc.m.taobao.com
+@@gm.mmstat.com
+@@ipv4dns.com
+@@down.sandai.net
 
 
