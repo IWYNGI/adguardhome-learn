@@ -1,3 +1,5 @@
-# adguardhome---
-learn 学习
-自用规则
+# learn-adguardhome-rules
+
+自用规则 比较粗糙 白名单 
+
+---
