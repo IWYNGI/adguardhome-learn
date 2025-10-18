@@ -1008,6 +1008,7 @@
 @@|bluehost.com^$important
 @@|blueskyxn.com^$important
 @@|bluesoleil.com^$important
+@@|bmcx.com^$important
 @@|bnbrasil.com.br^$important
 @@|bnet.163.com^$important
 @@|boc.cn^$important
@@ -1315,6 +1316,7 @@
 @@|chong.qq.com^$important
 @@|chotistory24.blogspot.com^$important
 @@|chrome-infra-packages.appspot.com^$important
+@@|chrome.360.cn^$important
 @@|chrome.cloudflare-dns.com^$important
 @@|chtbl.com^$important
 @@|cialisoraltabs.com^$important
@@ -2366,6 +2368,7 @@
 @@|gambarbugil.mobi^$important
 @@|game.bilibili.com^$important
 @@|game.eve.mdt.qq.com^$important
+@@|game.gtimg.cn^$important
 @@|game.res.meizu.com^$important
 @@|game.weixin.qq.com^$important
 @@|gamebaiclub.club^$important
@@ -3199,6 +3202,7 @@
 @@|jawahirulazkar.blogspot.com^$important
 @@|jazzlives.nl^$important
 @@|jblpartners.fr^$important
+@@|jcc.qq.com^$important
 @@|jchann.net^$important
 @@|jcloud-cdn.com^$important
 @@|jcocdess.ga^$important
@@ -4187,6 +4191,7 @@
 @@|msn.wrating.com^$important
 @@|mssdk.bytedance.com^$important
 @@|msugcmansa.co.in^$important
+@@|msv6.wosms.cn^$important
 @@|mt2.cn^$important
 @@|mt2swordsmax.com^$important
 @@|mtalk.google.com^$important
@@ -4540,6 +4545,7 @@
 @@|ossapi.baidu.com^$important
 @@|ossweb-img.qq.com^$important
 @@|otakumovie24.blogspot.com^$important
+@@|oth.bls.mdt.qq.com^$important
 @@|oth.eve.mdt.qq.com^$important
 @@|oth.str.beacon.qq.com^$important
 @@|oth.str.mdt.qq.com^$important
@@ -4724,12 +4730,14 @@
 @@|pic.imgdb.cn^$important
 @@|pic.rmb.bdstatic.com^$important
 @@|pic.zol-img.com.cn^$important
+@@|pic1.58cdn.com.cn^$important
 @@|pic5.40017.cn^$important
 @@|picfox.org^$important
 @@|pics.porn300.com^$important
 @@|pics.porndroids.com^$important
 @@|pili.com.tw^$important
 @@|pinaypak-sexstory.blogspot.com^$important
+@@|pingfore.qq.com^$important
 @@|pingfore.wegame.com.cn^$important
 @@|pingjs.qq.com^$important
 @@|pingma.qq.com^$important
@@ -4947,6 +4955,7 @@
 @@|qihucdn.com^$important
 @@|qing.wpsdns.com^$important
 @@|qiyukf.com^$important
+@@|qlogo.cn^$important
 @@|qm-ab.wtzw.com^$important
 @@|qm.qq.com^$important
 @@|qn.yingyonghui.com^$important
@@ -5648,6 +5657,7 @@
 @@|superfoodnews.gr^$important
 @@|superstadyum3.com^$important
 @@|support.microsoft.com^$important
+@@|support.weixin.qq.com^$important
 @@|supportxmr.com^$important
 @@|surge.sh^$important
 @@|susannajungblom.se^$important
@@ -6278,6 +6288,7 @@
 @@|vuasanco1.com^$important
 @@|vuighenet.com^$important
 @@|vungtv.us^$important
+@@|vv.video.qq.com^$important
 @@|vwidhome.pl^$important
 @@|w--w.top^$important
 @@|w-api.pp.cn^$important
