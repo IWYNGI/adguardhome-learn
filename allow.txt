@@ -665,7 +665,6 @@
 @@|appattest.apple.com^$important
 @@|appbackupapi.micloud.xiaomi.net^$important
 @@|appbzz.blogspot.com^$important
-@@|appcloud2.in.zhihu.com^$important
 @@|appconf.heytapdownload.com^$important
 @@|appdownload.alicdn.com^$important
 @@|appgoad.189.cn^$important
