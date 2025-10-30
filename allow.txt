@@ -176,7 +176,6 @@
 @@|a1843.g1.akamai.net^$important
 @@|a65wda3h.sched.sma.tdnsstic1.cn.cjt.cdn.chinaidcnet.com^$important
 @@|a65wda3h.sched.sma.tdnsstic1.cn.cjt.jsq.ho-wan.cn^$important
-@@|aa.online-metrix.net^$important
 @@|aadmag.am^$important
 @@|aagmaal.day^$important
 @@|aagmaal.host^$important
@@ -1408,7 +1407,6 @@
 @@|clients4.google.com^$important
 @@|clients5.google.com^$important
 @@|clients6.google.com^$important
-@@|clientservices.googleapis.com^$important
 @@|clikado.com.br^$important
 @@|clipe.ir^$important
 @@|cliphot.bid^$important
@@ -4193,7 +4191,6 @@
 @@|msv6.wosms.cn^$important
 @@|mt2.cn^$important
 @@|mt2swordsmax.com^$important
-@@|mtalk.google.com^$important
 @@|mtamania.blogspot.com^$important
 @@|mtav.art^$important
 @@|mtk-devs.blogspot.com^$important
